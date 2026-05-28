@@ -1,0 +1,3 @@
+What is Java?||||A high-level object-oriented programming language.
+What is OOP?||||Object-Oriented Programming.
+What does SQL stand for?||||Structured Query Language.
